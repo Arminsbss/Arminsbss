@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arminsbss)](https://github.com/anuraghazra/github-readme-stats)
+.
 KNTU::MATH(Graduated)
 {
 Data miner 👨‍💻
