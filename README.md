@@ -1,5 +1,6 @@
-hi
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arminsbss&show_icons=true&theme=tokyonight)
+&#12288;
 KNTU::MATH(Graduated)
 {
 Data miner 👨‍💻
