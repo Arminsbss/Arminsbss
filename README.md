@@ -1,7 +1,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arminsbss&show_icons=true&theme=Gradient)   
 
-[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github.com/Arminsbss/tumor-classification))]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Arminsbss/tumor-classification))
 
 
 KNTU::MATH➕(Graduated) 
