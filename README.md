@@ -1,3 +1,7 @@
+<p align="center"> 
+  Visitor Count: <br> <b><i>(from 13/01/23 Onwards)<b><i> <br><br>
+</p>
+
 KNTU::MATH➕(Graduated) 
 {  
 Graphic designer 🍥  
