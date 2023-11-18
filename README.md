@@ -30,6 +30,13 @@ Tableau📊
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arminsbss&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arminsbss&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<picture><img src="https://github-readme-stats.vercel.app/api?username=Arminsbss&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width=53% height=53%/></picture><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arminsbss&langs_count=8&layout=compact&theme=radical&hide_border=true" width=40.5% height=40.5%/></picture>
+
+<picture><img src="https://github-readme-activity-graph.vercel.app/graph?username=Arminsbss&theme=redical&hide_border=true" style="width: 890px;"/></picture>
+
+<p align="center">
+<picture><img src="https://metrics.lecoq.io/Arminsbss?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FLondon" /></picture>     
+</p>
 
 <!---
 Arminsbss/Arminsbss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
