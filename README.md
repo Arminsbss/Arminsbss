@@ -62,8 +62,8 @@ Tableau📊
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arminsbss&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arminsbss&langs_count=8&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Arminsbss&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arminsbss&langs_count=8&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
 <br>
