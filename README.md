@@ -3,6 +3,9 @@
   <b><i>Visitor Count:</i></b><br><br>
   <img src="https://komarev.com/ghpvc/?username=Arminsbss&label=Profile%20Views&color=0e75b6&style=flat" alt="Arminsbss Visitors" />
 </div>
+<br>
+
+<img width="1024" height="339" alt="673a1c80-1d2c-439b-aee9-67f87f2cddd3" src="https://github.com/user-attachments/assets/1b72abab-921a-4206-9bfb-591b7850a6bc" />
 
 <br>
 
