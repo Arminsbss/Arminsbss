@@ -1,3 +1,7 @@
+<img width="1024" height="339" alt="673a1c80-1d2c-439b-aee9-67f87f2cddd3" src="https://github.com/user-attachments/assets/6c05c47f-f46c-480f-89fa-ea8fb901b7f2" />
+
+<br>
+
 <div align="center">
   <br>
   <b><i>Visitor Count:</i></b><br><br>
@@ -5,9 +9,7 @@
 </div>
 <br>
 
-<img width="1024" height="339" alt="673a1c80-1d2c-439b-aee9-67f87f2cddd3" src="https://github.com/user-attachments/assets/1b72abab-921a-4206-9bfb-591b7850a6bc" />
 
-<br>
 
 KNTU::MATH➕ (Graduated)  
 {  
