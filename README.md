@@ -13,7 +13,7 @@ Religious researcher🛐
 Patriot 🇮🇷🇩🇪🇺🇸  
 Gamer 🎮  
 }  
-KHU::Data miner 👨‍💻 (started)  
+KHU::Data miner 👨‍💻 (Graduated)  
 {  
 TDA🔍  
 Tableau📊  
@@ -25,7 +25,7 @@ Tableau📊
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img style="margin: 10px" src="https://skillicons.dev/icons?i=cpp,py,java,matlab,html,css,git,github,discord,ai,ps,pr,instagram,githubactions,latex,linkedin,linux,wordpress,vscode,r,jupyter,tensorflow,pytorch,keras,postgres&perline=9" alt="My Skills"/>
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=cpp,py,java,matlab,html,css,git,github,discord,ai,ps,pr,instagram,githubactions,latex,linkedin,linux,wordpress,vscode,r,tensorflow,pytorch,postgres&perline=8" alt="My Skills"/>
   </a>
 </div>
 
@@ -50,6 +50,7 @@ Tableau📊
 </div>
 
 ---
+
 ## 📊 GitHub Stats:
 
 <div align="center">
