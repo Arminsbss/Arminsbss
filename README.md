@@ -10,20 +10,29 @@
 <br>
 
 
+# Hi 👋, I'm Engineer Sabour
 
-KNTU::MATH➕ (Graduated)  
-{  
-Graphic designer 🍥  
-Religious researcher🛐  
-Patriot 🇮🇷🇩🇪🇺🇸  
-Gamer 🎮  
-}  
-KHU::Data miner 👨‍💻 (Graduated)  
-{  
-TDA🔍  
-Tableau📊  
-}
+### AI Engineer | Machine Learning & Deep Learning | Researcher & Developer
 
+I'm **Engineer Sabour**, an Artificial Intelligence engineer with a strong interest in **Machine Learning, Deep Learning, Computer Vision, Reinforcement Learning, Data Science, and intelligent systems**.
+
+My work combines theoretical knowledge with hands-on implementation. I enjoy exploring how AI models work, building practical machine learning solutions, experimenting with neural networks, and turning ideas into real-world projects.
+
+My GitHub is where I document my journey through Artificial Intelligence — from fundamental machine learning concepts and neural networks to computer vision, reinforcement learning, data analysis, SQL, and modern AI tools.
+
+I'm especially interested in developing intelligent systems that can **learn, reason, automate tasks, and solve real-world problems**.
+
+- 🤖 Working on **Artificial Intelligence, Machine Learning & Deep Learning**
+- 🧠 Interested in **Neural Networks, Computer Vision & Reinforcement Learning**
+- 🐍 Building AI and data-driven projects with **Python**
+- 📊 Experienced with **Data Analysis, Data Mining & SQL**
+- 🔬 Interested in **AI research and experimental projects**
+- 💡 Exploring **LLMs, AI Agents and modern AI technologies**
+- 🚀 Always learning, experimenting, and building
+- 🤝 Open to collaboration on **Artificial Intelligence and Machine Learning projects**
+- ✉️ You can contact me at **sabour.armin@gmail.com**
+
+> **Building intelligent systems, one experiment at a time.**
 ---
 
 ## 💻 Tech Stack:
