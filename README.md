@@ -98,5 +98,6 @@ I'm especially interested in developing intelligent systems that can **learn, re
 
 https://github.com/user-attachments/assets/c449c720-7515-46f0-92f3-caca610203b4
 
+https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg
 
 
